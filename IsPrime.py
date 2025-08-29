@@ -11,7 +11,7 @@ def isPrime(number):
 cont = 1
 
 while cont == 1:
-    print("\nTecle 1 para testar se o número é primo")
+    print("Tecle 1 para testar se o número é primo\n")
     print("Tecle 0 para finalizar")
 
     entrada = input("Digite o número da ação: ")
